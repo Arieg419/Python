@@ -1,5 +1,5 @@
 # Python
-Practice with Python
+Learning and Practicing in Python
 
 
 ###Algorithms and Data Structures & Machine Learning in Python
