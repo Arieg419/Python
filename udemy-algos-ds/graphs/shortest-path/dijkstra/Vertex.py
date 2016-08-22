@@ -9,7 +9,7 @@ class Vertex(object):
 		self.adjacenciesList = [];
 		self.minDistance = sys.maxsize;
 
-	def __cmp__(self, otherVertext):
+	def __cmp__(self, otherVertex):
 		return self.cmp(self.minDistance, otherVertex.minDistance);
 	
 	def __lt__(self, other):
